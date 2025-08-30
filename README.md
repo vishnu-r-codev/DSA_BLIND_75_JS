@@ -9,7 +9,7 @@ Each problem will be linked here with its solution file once completed.
 
 | #  | Type | Difficulty | Problem | Status |
 |----|------|------------|---------|--------|
-| 01 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Two Sum | ❌ |
+| 01 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Two Sum | ✅ |
 | 02 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Best Time to Buy and Sell Stock | ❌ |
 | 03 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Contains Duplicate | ❌ |
 | 04 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | Product of Array Except Self | ❌ |
