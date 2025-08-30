@@ -1,26 +1,27 @@
 # Blind 75 LeetCode Solutions
 
-This repository contains solutions (in progress) for the famous **Blind 75 LeetCode problems**.  
+This repository contains solutions (in progress) for the **Blind 75 LeetCode problems**.  
 Each problem will be linked here with its solution file once completed.
 
 ---
 
 ## Problem List
 
-| #  | Problem | Status |
-|----|----------|--------|
-| 01 | Two Sum | ❌ |
-| 02 | Best Time to Buy and Sell Stock | ❌ |
-| 03 | Contains Duplicate | ❌ |
-| 04 | Product of Array Except Self | ❌ |
-| 05 | Maximum Subarray | ❌ |
-| 06 | Maximum Product Subarray | ❌ |
-| 07 | Find Minimum in Rotated Sorted Array | ❌ |
-| 08 | Search in Rotated Sorted Array | ❌ |
-| 09 | 3Sum | ❌ |
-| 10 | Container With Most Water | ❌ |
+| #  | Problem | Type | Difficulty | Status |
+|----|----------|------|------------|--------|
+| 01 | Two Sum | Array | Easy | ❌ |
+| 02 | Best Time to Buy and Sell Stock | Array | Easy | ❌ |
+| 03 | Contains Duplicate | Array | Easy | ❌ |
+| 04 | Product of Array Except Self | Array | Medium | ❌ |
+| 05 | Maximum Subarray | Array | Medium | ❌ |
+| 06 | Maximum Product Subarray | Array | Medium | ❌ |
+| 07 | Find Minimum in Rotated Sorted Array | Binary Search | Medium | ❌ |
+| 08 | Search in Rotated Sorted Array | Binary Search | Medium | ❌ |
+| 09 | 3Sum | Two Pointers | Medium | ❌ |
+| 10 | Container With Most Water | Two Pointers | Medium | ❌ |
 
 ---
 
-## How to Use
-- Solutions will be added in JavaScript under filenames like:
+## Legend
+- ❌ = Solution not added yet  
+- ✅ = Solution added  
