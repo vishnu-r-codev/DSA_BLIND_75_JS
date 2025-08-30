@@ -9,21 +9,23 @@ Each problem will be linked here with its solution file once completed.
 
 | #  | Type | Difficulty | Problem | Status |
 |----|------|------------|---------|--------|
-| 01 | <span style="color:blue">Array</span> | <span style="color:green">Easy</span> | Two Sum | ❌ |
-| 02 | <span style="color:blue">Array</span> | <span style="color:green">Easy</span> | Best Time to Buy and Sell Stock | ❌ |
-| 03 | <span style="color:blue">Array</span> | <span style="color:green">Easy</span> | Contains Duplicate | ❌ |
-| 04 | <span style="color:blue">Array</span> | <span style="color:orange">Medium</span> | Product of Array Except Self | ❌ |
-| 05 | <span style="color:blue">Array</span> | <span style="color:orange">Medium</span> | Maximum Subarray | ❌ |
-| 06 | <span style="color:blue">Array</span> | <span style="color:orange">Medium</span> | Maximum Product Subarray | ❌ |
-| 07 | <span style="color:purple">Binary Search</span> | <span style="color:orange">Medium</span> | Find Minimum in Rotated Sorted Array | ❌ |
-| 08 | <span style="color:purple">Binary Search</span> | <span style="color:orange">Medium</span> | Search in Rotated Sorted Array | ❌ |
-| 09 | <span style="color:teal">Two Pointers</span> | <span style="color:orange">Medium</span> | 3Sum | ❌ |
-| 10 | <span style="color:teal">Two Pointers</span> | <span style="color:orange">Medium</span> | Container With Most Water | ❌ |
+| 01 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Two Sum | ❌ |
+| 02 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Best Time to Buy and Sell Stock | ❌ |
+| 03 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Contains Duplicate | ❌ |
+| 04 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | Product of Array Except Self | ❌ |
+| 05 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | Maximum Subarray | ❌ |
+| 06 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | Maximum Product Subarray | ❌ |
+| 07 | ![Type: Binary%20Search](https://img.shields.io/badge/Type-Binary%20Search-purple) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | Find Minimum in Rotated Sorted Array | ❌ |
+| 08 | ![Type: Binary%20Search](https://img.shields.io/badge/Type-Binary%20Search-purple) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | Search in Rotated Sorted Array | ❌ |
+| 09 | ![Type: Two%20Pointers](https://img.shields.io/badge/Type-Two%20Pointers-teal) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | 3Sum | ❌ |
+| 10 | ![Type: Two%20Pointers](https://img.shields.io/badge/Type-Two%20Pointers-teal) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | Container With Most Water | ❌ |
 
 ---
 
 ## Legend
 - ❌ = Solution not added yet  
-- ✅ = Solution added  
-- Type = <span style="color:blue">Array</span>, <span style="color:purple">Binary Search</span>, <span style="color:teal">Two Pointers</span>, etc.  
-- Difficulty = <span style="color:green">Easy</span>, <span style="color:orange">Medium</span>, <span style="color:red">Hard</span>  
+- ✅ = Solution added
+
+**Notes**
+- The badges use [shields.io] image URLs (they render as colored images on GitHub).
+- If you prefer smaller icons/badges, you can tweak the shields.io URL (e.g., use `?style=flat-square`).
