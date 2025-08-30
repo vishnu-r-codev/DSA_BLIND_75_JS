@@ -80,4 +80,8 @@ Each problem will be linked here with its solution file once completed.
 | 69 | ![Type: Tree](https://img.shields.io/badge/Type-Tree-green) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | Kth Smallest Element in a BST | ❌ |
 | 70 | ![Type: Tree](https://img.shields.io/badge/Type-Tree-green) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Lowest Common Ancestor of BST | ❌ |
 | 71 | ![Type: Tree](https://img.shields.io/badge/Type-Tree-green) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | Implement Trie (Prefix Tree) | ❌ |
-| 72 | ![
+| 72 | ![Type: Tree](https://img.shields.io/badge/Type-Tree-darkorange) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | Add and Search Word | ❌ |
+| 73 | ![Type: Tree](https://img.shields.io/badge/Type-Tree-darkorange) | ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-red) | Word Search II | ❌ |
+| 74 | ![Type: Heap](https://img.shields.io/badge/Type-Heap-silver) | ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-red) | Merge K Sorted Lists | ❌ |
+| 75 | ![Type: Heap](https://img.shields.io/badge/Type-Heap-silver) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | Top K Frequent Elements | ❌ |
+| 76 | ![Type: Heap](https://img.shields.io/badge/Type-Heap-silver) | ![Difficulty: Hard](https://img.shields.io/badge/Difficulty-Hard-red) | Find Median from Data Stream | ❌ |
