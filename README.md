@@ -20,10 +20,10 @@ Each problem will be linked here with its solution file once completed.
 | 09 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | 3 Sum | ✅ |
 | 10 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | Container with Most Water | ✅ |
 | 11 | ![Type: Binary](https://img.shields.io/badge/Type-Binary-purple) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | Sum of Two Integers | ✅ |
-| 12 | ![Type: Binary](https://img.shields.io/badge/Type-Binary-purple) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Number of 1 Bits | ❌ |
-| 13 | ![Type: Binary](https://img.shields.io/badge/Type-Binary-purple) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Counting Bits | ❌ |
-| 14 | ![Type: Binary](https://img.shields.io/badge/Type-Binary-purple) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Missing Number | ❌ |
-| 15 | ![Type: Binary](https://img.shields.io/badge/Type-Binary-purple) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Reverse Bits | ❌ |
+| 12 | ![Type: Binary](https://img.shields.io/badge/Type-Binary-purple) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Number of 1 Bits | ✅ |
+| 13 | ![Type: Binary](https://img.shields.io/badge/Type-Binary-purple) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Counting Bits | ✅ |
+| 14 | ![Type: Binary](https://img.shields.io/badge/Type-Binary-purple) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Missing Number | ✅|
+| 15 | ![Type: Binary](https://img.shields.io/badge/Type-Binary-purple) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Reverse Bits | ✅ |
 | 16 | ![Type: Dynamic](https://img.shields.io/badge/Type-Dynamic-teal) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Climbing Stairs | ❌ |
 | 17 | ![Type: Dynamic](https://img.shields.io/badge/Type-Dynamic-teal) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | Coin Change | ❌ |
 | 18 | ![Type: Dynamic](https://img.shields.io/badge/Type-Dynamic-teal) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | Longest Increasing Subsequence | ❌ |
