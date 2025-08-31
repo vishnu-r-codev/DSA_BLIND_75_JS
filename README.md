@@ -10,9 +10,9 @@ Each problem will be linked here with its solution file once completed.
 | #  | Type | Difficulty | Problem | Status |
 |----|------|------------|---------|--------|
 | 01 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Two Sum | ✅ |
-| 02 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Best Time to Buy and Sell Stock | ❌ |
-| 03 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Contains Duplicate | ❌ |
-| 04 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | Product of Array Except Self | ❌ |
+| 02 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Best Time to Buy and Sell Stock | ✅ |
+| 03 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Contains Duplicate | ✅ |
+| 04 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | Product of Array Except Self | ✅ |
 | 05 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Easy](https://img.shields.io/badge/Difficulty-Easy-brightgreen) | Maximum Subarray | ❌ |
 | 06 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | Maximum Product Subarray | ❌ |
 | 07 | ![Type: Array](https://img.shields.io/badge/Type-Array-blue) | ![Difficulty: Medium](https://img.shields.io/badge/Difficulty-Medium-orange) | Find Minimum in Rotated Sorted Array | ❌ |
